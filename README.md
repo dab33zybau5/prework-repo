@@ -1,8 +1,8 @@
 Brenden Cheung's Android Studio Project
 
 Completed User Stories - 
-User sees custom text in a label - Hello from {name}!
-User see custom background color.
+User sees custom text in a label - Hello from {name}! \n
+User see custom background color. \n
 User can tap a button to change the text color of the label.
 User can tap a button to change the color of the background view.
 User can tap a button to change the text string of the label - Android is Awesome!
