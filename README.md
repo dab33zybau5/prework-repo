@@ -1,6 +1,7 @@
 Brenden Cheung's Android Studio Project
 
 Completed User Stories - 
+
 User sees custom text in a label - Hello from {name}! 
 
 User see custom background color. 
